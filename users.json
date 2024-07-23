@@ -1,0 +1,26 @@
+[
+    {
+        "username": "student1",
+        "password": "password123",
+        "role": "student",
+        "name": "Student One",
+        "email": "student1@college.edu",
+        "phone": "123-456-7890"
+    },
+    {
+        "username": "faculty1",
+        "password": "password123",
+        "role": "faculty",
+        "name": "Faculty One",
+        "email": "faculty1@college.edu",
+        "phone": "123-456-7890"
+    },
+    {
+        "username": "admin1",
+        "password": "password123",
+        "role": "admin",
+        "name": "Admin One",
+        "email": "admin1@college.edu",
+        "phone": "123-456-7890"
+    }
+]
